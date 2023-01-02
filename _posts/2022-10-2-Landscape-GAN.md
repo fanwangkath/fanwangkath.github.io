@@ -2,6 +2,7 @@
 layout: post
 title: Landscape
 featured-img: landscapes
+comments: true
 ---
 
 ## art-DCGAN

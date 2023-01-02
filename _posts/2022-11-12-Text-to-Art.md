@@ -3,6 +3,7 @@ layout: post
 title: Global Warming
 featured-img: global_warming
 mathjax: true
+comments: true
 ---
 
 ## Text2Art
